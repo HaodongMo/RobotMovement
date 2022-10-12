@@ -1,0 +1,4 @@
+# Invalid direction test
+PLACE 0,0,WEAST
+MOVE
+REPORT

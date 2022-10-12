@@ -1,0 +1,6 @@
+# Invalid command test
+PLACE 0,0,NORTH
+SCRUNGLE
+BOP
+UP
+REPORT

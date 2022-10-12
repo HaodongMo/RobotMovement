@@ -1,0 +1,7 @@
+# Run off table test
+PLACE 0,0,NORTH
+MOVE
+MOVE
+MOVE
+MOVE
+REPORT

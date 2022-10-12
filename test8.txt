@@ -1,0 +1,3 @@
+# Place off table test
+PLACE 10,9,NORTH
+REPORT

@@ -97,6 +97,10 @@ def runrobot(filename):
                 # place robot
                 r = robot(x, y, dir)
 
+            elif command.startswith("#"):
+                # Comment
+                pass
+
             elif command == "MOVE":
                 if r:
                     r.move()

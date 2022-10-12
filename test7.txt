@@ -1,0 +1,9 @@
+# Commands before place test
+MOVE
+LEFT
+LEFT
+MOVE
+MOVE
+MOVE
+PLACE 2,2,NORTH
+REPORT
